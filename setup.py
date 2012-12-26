@@ -16,5 +16,6 @@ setup(
 	install_requires=[
         'Django>=1.4',
         'django-appconf>=0.5',
+        'Werkzeug==0.8.3',
     ],
 )
